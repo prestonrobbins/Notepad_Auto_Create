@@ -1,0 +1,16 @@
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\Notepad_Auto_Challenge.exe
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\Notepad_Auto_Challenge.deps.json
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\Notepad_Auto_Challenge.runtimeconfig.json
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\Notepad_Auto_Challenge.runtimeconfig.dev.json
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\Notepad_Auto_Challenge.dll
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\ref\Notepad_Auto_Challenge.dll
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\bin\Debug\net5.0\Notepad_Auto_Challenge.pdb
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.csproj.AssemblyReference.cache
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.AssemblyInfoInputs.cache
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.AssemblyInfo.cs
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.dll
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\ref\Notepad_Auto_Challenge.dll
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.pdb
+C:\Users\prest\workspace\C#\Notepad_Auto_Challenge\obj\Debug\net5.0\Notepad_Auto_Challenge.genruntimeconfig.cache
